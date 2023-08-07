@@ -1,0 +1,34 @@
+<span id="a">sowmik@shovon</span>:<span id="b">~</span><span id="c">$</span> cd SowmikShovonKarmakar\About
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Sowmik.txt
+<p>My favorite code quote, "<span id="k">Software and cathedrals are much the same — first we build them, then we pray.</span>".
+Hey there! This is the online portfolio in the skin of a terminal.
+
+Hello. My name is Sowmik Shovon Karmakar. I am softwere engineer from Bangladesh. I graduated from BRAC University in 2022. Right now I am searching for a full time job. My expertise lies in web development, and software engineering. I have some experience in android app development. I am also very interested in DevOps and Quality Assurance.</p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Skills.txt
+<p>Skills:
+Java:       <span id="g">#############</span><span id="r">######</span>(70%)
+Python:     <span id="g">#############</span><span id="r">######</span>(70%)
+html:       <span id="g">###############</span><span id="r">####</span>(80%)
+CSS:        <span id="g">###############</span><span id="r">####</span>(80%)
+JavaScript: <span id="g">#########</span><span id="r">##########</span>(50%)
+SQL:        <span id="g">#########</span><span id="r">##########</span>(50%)
+React:      <span id="g">########</span><span id="r">###########</span>(40%)
+TypeScript: <span id="g">########</span><span id="r">###########</span>(40%)
+Bash:       <span id="g">###########</span><span id="r">########</span>(60%)
+</p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Portfolio.txt
+<p>To know more about me, please click <a href="https://drive.google.com/file/d/14MACaYqKp9ayPm3VRFlsfrXyZ64jOMMY/view?usp=sharing">here</a> for my professional portfolio.</p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Project.txt
+<br>I am providing my <a href="https://github.com/sowmikshovon">GitHub</a> link. There you will find all the projects I worked on.</p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Contact.txt
+<p>Here you can find all my contact information.<br>
+<a href="https://www.linkedin.com/in/sowmikshovon">Linkedin</a><br>
+
+<a href="https://www.facebook.com/sowmik.shovon/">Facebook</a><br>
+
+Feel free to send me an email at <a href="sowmikshovon@gmail.com">sowmikshovon@gmail.com</a>.</p>
+
+You can also reach me by calling <span id="m">+8801735867676</span> 
+
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> exit
+<span id="a">sowmik@shovon</span>:<span id="b">~</span><span id="c">$</span>
