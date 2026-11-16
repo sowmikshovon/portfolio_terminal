@@ -1,13 +1,22 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>SowmikShovonKarmakar</title>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Terminal-style portfolio for Sowmik Shovon Karmakar — Cloud, DevSecOps &amp; QA Automation Engineer.">
+  <title>Sowmik Shovon Karmakar | Terminal Portfolio</title>
   <link rel="stylesheet" href="index.css">
-  <script src="index.js"></script>
+  <script src="index.js" defer></script>
 </head>
 <body>
-  <div id="console"></div>
+  <div id="terminal-hint" role="region" aria-label="Terminal controls">
+    <span class="hint-message">
+      <span class="hint-prompt">sowmik@shovon:~$</span>
+      Press <kbd>Esc</kbd> or click Skip animation to instant-load the full portfolio.
+    </span>
+    <button id="skip-animation" type="button">Skip animation</button>
+    <span id="terminal-status" class="sr-only" aria-live="polite"></span>
+  </div>
+  <main id="console" aria-label="Terminal portfolio output"></main>
 </body>
 </html>

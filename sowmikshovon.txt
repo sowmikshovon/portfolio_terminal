@@ -1,34 +1,151 @@
-<span id="a">sowmik@shovon</span>:<span id="b">~</span><span id="c">$</span> cd SowmikShovonKarmakar\About
-<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Sowmik.txt
+<span id="a">sowmik@shovon</span>:<span id="b">~</span><span id="c">$</span> cd SowmikShovonKarmakar/About
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> ls
+<span id="op"><a href="#about">about_Sowmik.txt</a>  <a href="#experience">experience_and_education.txt</a>  <a href="#skills">about_Skills.txt</a>  <a href="#portfolio">about_Portfolio_and_CV.txt</a>  <a href="#projects">about_Projects.txt</a>  <a href="#contact">about_Contact.txt</a></span>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> <span id="about">cat about_Sowmik.txt</span>
 <p>My favorite code quote, "<span id="k">Software and cathedrals are much the same — first we build them, then we pray.</span>".
-Hey there! This is the online portfolio in the skin of a terminal.
+Hey there! Welcome to my interactive Linux bash terminal portfolio.
 
-Hello. My name is Sowmik Shovon Karmakar. I am softwere engineer from Bangladesh. I graduated from BRAC University in 2022. Right now I am searching for a full time job. My expertise lies in web development, and software engineering. I have some experience in android app development. I am also very interested in DevOps and Quality Assurance.</p>
-<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Skills.txt
-<p>Skills:
-Java:       <span id="g">#############</span><span id="r">######</span>(70%)
-Python:     <span id="g">#############</span><span id="r">######</span>(70%)
-html:       <span id="g">###############</span><span id="r">####</span>(80%)
-CSS:        <span id="g">###############</span><span id="r">####</span>(80%)
-JavaScript: <span id="g">#########</span><span id="r">##########</span>(50%)
-SQL:        <span id="g">#########</span><span id="r">##########</span>(50%)
-React:      <span id="g">########</span><span id="r">###########</span>(40%)
-TypeScript: <span id="g">########</span><span id="r">###########</span>(40%)
-Bash:       <span id="g">###########</span><span id="r">########</span>(60%)
-</p>
-<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Portfolio.txt
-<p>To know more about me, please click <a href="https://drive.google.com/file/d/14MACaYqKp9ayPm3VRFlsfrXyZ64jOMMY/view?usp=sharing">here</a> for my professional portfolio.</p>
-<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Project.txt
-<br>I am providing my <a href="https://github.com/sowmikshovon">GitHub</a> link. There you will find all the projects I worked on.</p>
-<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> cat about_Contact.txt
-<p>Here you can find all my contact information.<br>
-<a href="https://www.linkedin.com/in/sowmikshovon">Linkedin</a><br>
+<span id="a">Name:</span>     Sowmik Shovon Karmakar
+<span id="a">Role:</span>     Cloud, DevSecOps &amp; QA Automation Engineer
+<span id="a">Location:</span> Lahti / Helsinki, Finland
+<span id="a">Status:</span>   MSc @ LUT University (Lahti Campus, Finland) · Open to Finland &amp; EU Roles
 
-<a href="https://www.facebook.com/sowmik.shovon/">Facebook</a><br>
+I am a Software, Cloud, DevSecOps, and QA Automation Engineer currently pursuing an MSc (Tech) in Software Product Management &amp; Business at LUT University (Lahti Campus, Finland, Aug 2026 - Jul 2028), building on my MSc in Computer Science (PMSCS) at Jahangirnagar University, my BSc in Computer Science at BRAC University, and hands-on QA Automation experience at A1QA. My work bridges software product strategy with resilient engineering across Cloud &amp; DevSecOps (Terraform, Azure AKS, AWS, Docker, Kubernetes, ArgoCD, Jenkins, GitHub Actions), QA Test Automation (Java, Python, Selenium, BDD, TestNG, Allure), and Full-Stack TypeScript development (Next.js, React, Node.js, PostgreSQL). I am actively seeking Software, DevOps, Cloud, and QA Automation roles in Finland and across Europe. Outside of engineering, I enjoy travel, photography, exploring emerging technologies, space exploration, and horology.
 
-Feel free to send me an email at <a href="sowmikshovon@gmail.com">sowmikshovon@gmail.com</a>.</p>
+<span id="b">Domain Pillars:</span>
+  * Cloud &amp; IaC (Azure / Terraform)
+  * DevSecOps &amp; CI/CD
+  * QA Test Automation
+  * Full-Stack TypeScript</p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> <span id="experience">cat experience_and_education.txt</span>
+<p><span id="b">[2026 - Present]</span> <span id="a">Looking for a fulltime Job</span> | Lahti / Helsinki, Finland &amp; Europe
+  <span id="op">Actively seeking Software, DevOps, Cloud, and QA Automation roles in Finland and across Europe.</span>
 
-You can also reach me by calling <span id="m">+8801735867676</span> 
+<span id="b">[Aug 2026 - Jul 2028]</span> <span id="a">MSc in Software Product Management and Business</span> | LUT University, Lahti Campus, Finland
+  <span id="op">Master of Science (Technology) in Software Product Management and Business at LUT University, Lahti Campus, Finland.</span>
 
+<span id="b">[2023-2025]</span> <span id="a">PMSCS</span> | Jahangirnagar University
+  <span id="op">Completed Master of Science in Computer Science under the PMSCS program from Jahangirnagar University.</span>
+
+<span id="b">[2023-2024]</span> <span id="a">QA Automation Intern</span> | A1QA
+  <span id="op">Built maintainable Page Object Model UI test suites using Java, Selenium WebDriver, TestNG, and Cucumber BDD; integrated automated test execution and Allure reporting into Jenkins CI pipelines to surface regressions early.</span>
+
+<span id="b">[2022-2023]</span> <span id="a">Skill Improvement</span> | Dhaka, Bangladesh
+  <span id="op">Personal full-stack, cloud, and engineering projects post-graduation.</span>
+
+<span id="b">[2017-2022]</span> <span id="a">BSc</span> in Computer Science (CS) | BRAC University
+  <span id="op">Completed Bachelor of Science (BSc) in Computer Science (CS) from BRAC University in 2022.</span></p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> <span id="skills">cat about_Skills.txt</span>
+<p><span id="b">Cloud &amp; DevOps (17):</span>
+Terraform:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+Azure:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+AKS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+AWS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Docker:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+Kubernetes:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+ArgoCD:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+GitHub Actions:&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+Jenkins:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+CI/CD:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+Linux:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+Bash:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+Ansible:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">###############</span><span id="r">#####</span></span> (75%)
+SonarQube:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Trivy:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+OWASP:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Git:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">###################</span><span id="r">#</span></span> (95%)
+
+<span id="b">QA &amp; Test Automation (10):</span>
+Java:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+Python:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+Selenium:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+BDD:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+TestNG:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+JUnit:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+Allure:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+Maven:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+REST Assured:&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Jest:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+
+<span id="b">Backend &amp; Databases (7):</span>
+Node.js:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+Express.js:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+PostgreSQL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+MongoDB:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Supabase:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+MySQL:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Firebase:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">###############</span><span id="r">#####</span></span> (75%)
+
+<span id="b">Frontend &amp; Product (11):</span>
+TypeScript:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+Next.js:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+React:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+JavaScript:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">#################</span><span id="r">###</span></span> (85%)
+Tailwind CSS:&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">##################</span><span id="r">##</span></span> (90%)
+Bootstrap:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Framer Motion:&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Flutter:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">###############</span><span id="r">#####</span></span> (75%)
+Dart:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">###############</span><span id="r">#####</span></span> (75%)
+IoT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)
+Arduino:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"><span id="g">################</span><span id="r">####</span></span> (80%)</p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> <span id="portfolio">cat about_Portfolio_and_CV.txt</span>
+<p><span id="b">Portfolio &amp; CV Resources (Updated November 2026):</span>
+  * Google Drive CV (PDF):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/10Eeuk0-Sefn8RYVn4oB3ggZg-BI24QRs/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View / Download CV on Google Drive</a>
+  * Printable Web CV:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sowmik-portfolio-nextjs.vercel.app/cv" target="_blank" rel="noopener noreferrer">sowmik-portfolio-nextjs.vercel.app/cv</a>
+  * Live Next.js Portfolio:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sowmik-portfolio-nextjs.vercel.app" target="_blank" rel="noopener noreferrer">sowmik-portfolio-nextjs.vercel.app</a>
+  * Next.js Portfolio v2 Repo:&nbsp;&nbsp;<a href="https://github.com/sowmikshovon/advanced-portfolio-nextjs-v2" target="_blank" rel="noopener noreferrer">github.com/sowmikshovon/advanced-portfolio-nextjs-v2</a>
+  * Next.js Portfolio v1 Repo:&nbsp;&nbsp;<a href="https://github.com/sowmikshovon/advanced-portfolio-nextjs" target="_blank" rel="noopener noreferrer">github.com/sowmikshovon/advanced-portfolio-nextjs</a></p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> <span id="projects">cat about_Projects.txt</span>
+<p><span id="a">[1] Azure Cloud Platform IaC</span> <span id="b">[Cloud &amp; DevOps]</span>
+    Terraform blueprint provisioning Azure AKS, ACR, and Resource Groups in North Europe with OIDC, Calico policies, and Trivy CI governance.
+    <span id="op">Stack: Terraform · Azure · AKS · GitHub Actions · Trivy · IaC</span>
+    Links: <a href="https://github.com/sowmikshovon/azure-cloud-platform-terraform" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+<span id="a">[2] DevOps CI/CD Pipeline</span> <span id="b">[Cloud &amp; DevOps]</span>
+    Multi-stage DevSecOps pipeline deploying containerized apps to Kubernetes with Jenkins, AWS, Docker, ArgoCD, SonarQube, OWASP, and Trivy.
+    <span id="op">Stack: Jenkins · AWS · Docker · Kubernetes · ArgoCD · SonarQube · Trivy</span>
+    Links: <a href="https://github.com/sowmikshovon/DevOps-pipeline-1" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+<span id="a">[3] Acquisitions API &amp; CI/CD</span> <span id="b">[QA &amp; Backend]</span>
+    Containerized Node.js Express API with PostgreSQL, Drizzle ORM, JWT/Arcjet security, Jest suites, and multi-arch Docker GitHub Actions.
+    <span id="op">Stack: Node.js · PostgreSQL · Docker · GitHub Actions · Jest · Express</span>
+    Links: <a href="https://github.com/sowmikshovon/acquisitions" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+<span id="a">[4] Automated QA &amp; Test Suite</span> <span id="b">[QA &amp; Backend]</span>
+    Java &amp; Maven test automation framework using Selenium WebDriver, Page Object Model, TestNG, and Allure Reports, plus BDD &amp; JUnit suites.
+    <span id="op">Stack: Java · Selenium · BDD · TestNG · JUnit · Allure · Maven</span>
+    Links: <a href="https://github.com/sowmikshovon/test_automation" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+<span id="a">[5] Spotify Full-Stack Clone</span> <span id="b">[Full-Stack &amp; IoT]</span>
+    Full-stack music streaming platform with Next.js, TypeScript, Supabase PostgreSQL auth &amp; storage, Stripe subscriptions, and Tailwind CSS.
+    <span id="op">Stack: TypeScript · Next.js · React · Supabase · PostgreSQL · Stripe</span>
+    Links: <a href="https://github.com/sowmikshovon/spotify-clone" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://spotify-clone-seven-tau.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+<span id="a">[6] Advanced Portfolio</span> <span id="b">[Full-Stack &amp; IoT]</span>
+    TypeScript portfolio built with Next.js 16, React 19, Tailwind CSS v4, Framer Motion, React Email, Resend, and automated CI checks.
+    <span id="op">Stack: TypeScript · Next.js · React · Tailwind CSS · Framer Motion · Resend</span>
+    Links: <a href="https://github.com/sowmikshovon/advanced-portfolio-nextjs-v2" target="_blank" rel="noopener noreferrer">GitHub v2</a> | <a href="https://github.com/sowmikshovon/advanced-portfolio-nextjs" target="_blank" rel="noopener noreferrer">GitHub v1</a> | <a href="https://sowmik-portfolio-nextjs.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+<span id="a">[7] IoT Parking Manager</span> <span id="b">[Full-Stack &amp; IoT]</span>
+    Flutter &amp; Firebase app for smart parking spot booking with Google Maps, QR pass PDFs, and Bluetooth Serial control for Arduino/ESP32.
+    <span id="op">Stack: Flutter · Dart · IoT · Firebase · Bluetooth · Arduino</span>
+    Links: <a href="https://github.com/sowmikshovon/parking_manager_app_iot" target="_blank" rel="noopener noreferrer">GitHub</a>
+
+<span id="a">[8] Anime Vault</span> <span id="b">[Full-Stack &amp; IoT]</span>
+    Server-rendered Next.js 14 app using Server Actions, infinite-scroll API fetching, TypeScript, Tailwind CSS, and Framer Motion.
+    <span id="op">Stack: TypeScript · Next.js · React · Tailwind CSS · Framer Motion · Vercel</span>
+    Links: <a href="https://github.com/sowmikshovon/Anime_vault" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://anime-vault-peach.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+
+<span id="a">[9] Terminal Portfolio</span> <span id="b">[Full-Stack &amp; IoT]</span>
+    Linux Bash-inspired CLI resume and project explorer built with JavaScript, HTML, and CSS for terminal-native navigation.
+    <span id="op">Stack: Linux · Bash · JavaScript · HTML · CSS</span>
+    Links: <a href="https://github.com/sowmikshovon/portfolio_terminal" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://sowmikshovon.github.io/portfolio_terminal/" target="_blank" rel="noopener noreferrer">Live Demo</a></p>
+<span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> <span id="contact">cat about_Contact.txt</span>
+<p>Location:&nbsp;&nbsp;Lahti / Helsinki, Finland · Open to Europe
+Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sowmikshovon@gmail.com">sowmikshovon@gmail.com</a>
+LinkedIn:&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sowmikshovon" target="_blank" rel="noopener noreferrer">linkedin.com/in/sowmikshovon</a>
+GitHub:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sowmikshovon" target="_blank" rel="noopener noreferrer">github.com/sowmikshovon</a>
+Facebook:&nbsp;&nbsp;<a href="https://www.facebook.com/sowmik.shovon/" target="_blank" rel="noopener noreferrer">facebook.com/sowmik.shovon</a>
+Phone:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="m">+8801735867676</span></p>
 <span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> exit
 <span id="a">sowmik@shovon</span>:<span id="b">~</span><span id="c">$</span>
