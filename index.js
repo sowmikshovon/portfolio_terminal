@@ -35,11 +35,11 @@ const FALLBACK_SECTIONS = {
   about:
     '<span id="a">Name:</span>     Sowmik Shovon Karmakar\n' +
     '<span id="a">Role:</span>     Cloud, DevSecOps &amp; QA Automation Engineer\n' +
-    '<span id="a">Location:</span> Lahti / Helsinki, Finland\n' +
-    '<span id="a">Status:</span>   MSc @ LUT University (Lahti Campus, Finland) &middot; Open to Finland &amp; EU Roles',
+    '<span id="a">Location:</span> Tampere, Finland\n' +
+    '<span id="a">Status:</span>   MSc @ LUT University (Finland) &middot; Open to Finland &amp; EU Roles',
   experience:
-    '<span id="b">[2026 - Present]</span> <span id="a">Looking for a fulltime Job</span> | Lahti / Helsinki, Finland &amp; Europe\n' +
-    '<span id="b">[Aug 2026 - Jul 2028]</span> <span id="a">MSc in Software Product Management and Business</span> | LUT University\n' +
+    '<span id="b">[2026 - Present]</span> <span id="a">Looking for a fulltime Job</span> | Finland &amp; EU\n' +
+    '<span id="b">[Aug 2026 - Jul 2028]</span> <span id="a">MSc in Software Product Management and Business</span> | LUT University, Finland\n' +
     '<span id="b">[2023-2025]</span> <span id="a">PMSCS</span> | Jahangirnagar University\n' +
     '<span id="b">[2023-2024]</span> <span id="a">QA Automation Intern</span> | A1QA\n' +
     '<span id="b">[2017-2022]</span> <span id="a">BSc</span> in Computer Science | BRAC University',

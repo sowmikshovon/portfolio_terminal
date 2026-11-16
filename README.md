@@ -29,10 +29,10 @@ A Linux bash terminal-style developer portfolio and interactive CV for **Sowmik 
   - `clear` — Clear interactive command output history while keeping the prompt ready
   - `replay` — Reset and replay the terminal typing animation from the start
 - **Complete 2026 Portfolio Sections (`sowmikshovon.txt`):**
-  - **Profile & Domain Pillars:** `Cloud & IaC (Azure / Terraform)`, `DevSecOps & CI/CD`, `QA Test Automation`, and `Full-Stack TypeScript` (`Lahti / Helsinki, Finland`).
+  - **Profile & Domain Pillars:** `Cloud & IaC (Azure / Terraform)`, `DevSecOps & CI/CD`, `QA Test Automation`, and `Full-Stack TypeScript` (`Tampere, Finland`).
   - **Experience & Education (Reverse-Chronological):**
-    - `2026 - Present` — Full-time availability across Finland & Europe
-    - `Aug 2026 - Jul 2028` — MSc in Software Product Management and Business, **LUT University** (Lahti Campus, Finland)
+    - `2026 - Present` — Full-time availability across Finland & EU
+    - `Aug 2026 - Jul 2028` — MSc in Software Product Management and Business, **LUT University** (Finland)
     - `2023-2025` — **PMSCS**, **Jahangirnagar University**
     - `2023-2024` — QA Automation Intern, **A1QA** (Page Object Model, Java, Selenium, TestNG, Cucumber BDD, Jenkins, Allure)
     - `2022-2023` — Skill Improvement, Dhaka, Bangladesh

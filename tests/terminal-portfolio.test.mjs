@@ -226,9 +226,20 @@ test("1. Profile & Summary (sowmikshovon.txt) reflects updated persona, Finland 
     "Must include headline 'Cloud, DevSecOps & QA Automation Engineer'"
   );
   assert.ok(
-    plainText.includes("Lahti / Helsinki, Finland"),
-    "Must include location 'Lahti / Helsinki, Finland'"
+    plainText.includes("Tampere, Finland"),
+    "Must include location 'Tampere, Finland'"
   );
+  assert.ok(
+    plainText.includes("Finland & EU"),
+    "Must include availability 'Finland & EU'"
+  );
+  for (const file of ["sowmikshovon.txt", "index.js", "README.md"]) {
+    assert.doesNotMatch(
+      readSource(file),
+      /\b(Lahti|Helsinki)\b/i,
+      `${file} must not mention Lahti or Helsinki`
+    );
+  }
 
   const pillars = [
     "Cloud & IaC (Azure / Terraform)",
@@ -253,6 +264,11 @@ test("2. Experience & Education (sowmikshovon.txt) covers LUT MSc, PMSCS, A1QA i
     /2026\s*[-–]\s*Present/,
     "Must include '2026 - Present' job availability"
   );
+  assert.match(
+    plainText,
+    /2026\s*[-–]\s*Present\]\s*Looking for a fulltime Job\s*\|\s*Finland & EU/,
+    "Must include '2026 - Present' job availability for 'Finland & EU'"
+  );
 
   // LUT University MSc
   assert.ok(
@@ -260,13 +276,18 @@ test("2. Experience & Education (sowmikshovon.txt) covers LUT MSc, PMSCS, A1QA i
     "Must include 'MSc in Software Product Management and Business'"
   );
   assert.ok(
-    plainText.includes("LUT University"),
-    "Must include 'LUT University'"
+    plainText.includes("LUT University, Finland"),
+    "Must include 'LUT University, Finland'"
   );
   assert.match(
     plainText,
     /Aug 2026\s*[-–]\s*Jul 2028/,
     "Must include 'Aug 2026 - Jul 2028'"
+  );
+  assert.doesNotMatch(
+    plainText,
+    /\b(Lahti|Helsinki)\b/i,
+    "Experience & education must not mention Lahti or Helsinki"
   );
 
   // Jahangirnagar University PMSCS

@@ -7,10 +7,10 @@ Hey there! Welcome to my interactive Linux bash terminal portfolio.
 
 <span id="a">Name:</span>     Sowmik Shovon Karmakar
 <span id="a">Role:</span>     Cloud, DevSecOps &amp; QA Automation Engineer
-<span id="a">Location:</span> Lahti / Helsinki, Finland
-<span id="a">Status:</span>   MSc @ LUT University (Lahti Campus, Finland) · Open to Finland &amp; EU Roles
+<span id="a">Location:</span> Tampere, Finland
+<span id="a">Status:</span>   MSc @ LUT University (Finland) · Open to Finland &amp; EU Roles
 
-I am a Software, Cloud, DevSecOps, and QA Automation Engineer currently pursuing an MSc (Tech) in Software Product Management &amp; Business at LUT University (Lahti Campus, Finland, Aug 2026 - Jul 2028), building on my MSc in Computer Science (PMSCS) at Jahangirnagar University, my BSc in Computer Science at BRAC University, and hands-on QA Automation experience at A1QA. My work bridges software product strategy with resilient engineering across Cloud &amp; DevSecOps (Terraform, Azure AKS, AWS, Docker, Kubernetes, ArgoCD, Jenkins, GitHub Actions), QA Test Automation (Java, Python, Selenium, BDD, TestNG, Allure), and Full-Stack TypeScript development (Next.js, React, Node.js, PostgreSQL). I am actively seeking Software, DevOps, Cloud, and QA Automation roles in Finland and across Europe. Outside of engineering, I enjoy travel, photography, exploring emerging technologies, space exploration, and horology.
+I am a Software, Cloud, DevSecOps, and QA Automation Engineer currently pursuing an MSc (Tech) in Software Product Management &amp; Business at LUT University (Finland, Aug 2026 - Jul 2028), building on my MSc in Computer Science (PMSCS) at Jahangirnagar University, my BSc in Computer Science at BRAC University, and hands-on QA Automation experience at A1QA. My work bridges software product strategy with resilient engineering across Cloud &amp; DevSecOps (Terraform, Azure AKS, AWS, Docker, Kubernetes, ArgoCD, Jenkins, GitHub Actions), QA Test Automation (Java, Python, Selenium, BDD, TestNG, Allure), and Full-Stack TypeScript development (Next.js, React, Node.js, PostgreSQL). I am actively seeking Software, DevOps, Cloud, and QA Automation roles in Finland and across the EU. Outside of engineering, I enjoy travel, photography, exploring emerging technologies, space exploration, and horology.
 
 <span id="b">Domain Pillars:</span>
   * Cloud &amp; IaC (Azure / Terraform)
@@ -18,11 +18,11 @@ I am a Software, Cloud, DevSecOps, and QA Automation Engineer currently pursuing
   * QA Test Automation
   * Full-Stack TypeScript</p>
 <span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> <span id="experience">cat experience_and_education.txt</span>
-<p><span id="b">[2026 - Present]</span> <span id="a">Looking for a fulltime Job</span> | Lahti / Helsinki, Finland &amp; Europe
-  <span id="op">Actively seeking Software, DevOps, Cloud, and QA Automation roles in Finland and across Europe.</span>
+<p><span id="b">[2026 - Present]</span> <span id="a">Looking for a fulltime Job</span> | Finland &amp; EU
+  <span id="op">Actively seeking Software, DevOps, Cloud, and QA Automation roles in Finland and across the EU.</span>
 
-<span id="b">[Aug 2026 - Jul 2028]</span> <span id="a">MSc in Software Product Management and Business</span> | LUT University, Lahti Campus, Finland
-  <span id="op">Master of Science (Technology) in Software Product Management and Business at LUT University, Lahti Campus, Finland.</span>
+<span id="b">[Aug 2026 - Jul 2028]</span> <span id="a">MSc in Software Product Management and Business</span> | LUT University, Finland
+  <span id="op">Master of Science (Technology) in Software Product Management and Business at LUT University, Finland.</span>
 
 <span id="b">[2023-2025]</span> <span id="a">PMSCS</span> | Jahangirnagar University
   <span id="op">Completed Master of Science in Computer Science under the PMSCS program from Jahangirnagar University.</span>
@@ -141,7 +141,7 @@ Arduino:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span aria-hidden="true"
     <span id="op">Stack: Linux · Bash · JavaScript · HTML · CSS</span>
     Links: <a href="https://github.com/sowmikshovon/portfolio_terminal" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://sowmikshovon.github.io/portfolio_terminal/" target="_blank" rel="noopener noreferrer">Live Demo</a></p>
 <span id="a">sowmik@shovon</span>:<span id="b">~/SowmikShovonKarmakar/About</span><span id="c">$</span> <span id="contact">cat about_Contact.txt</span>
-<p>Location:&nbsp;&nbsp;Lahti / Helsinki, Finland · Open to Europe
+<p>Location:&nbsp;&nbsp;Tampere, Finland · Open to Finland &amp; EU
 Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sowmikshovon@gmail.com">sowmikshovon@gmail.com</a>
 LinkedIn:&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sowmikshovon" target="_blank" rel="noopener noreferrer">linkedin.com/in/sowmikshovon</a>
 GitHub:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sowmikshovon" target="_blank" rel="noopener noreferrer">github.com/sowmikshovon</a>
